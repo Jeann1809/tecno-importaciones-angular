@@ -35,10 +35,6 @@ An Angular-based frontend application for Tecno Importaciones, designed to provi
    ```bash
    ng serve
 
-5. Run the development server:
-   ```bash
-   ng serve
-
 ## 📄 License
 This project is licensed under the MIT License.
 
