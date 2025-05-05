@@ -1,27 +1,46 @@
-# TecnoImportacionesAngular
+# Tecno Importaciones Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+An Angular-based frontend application for Tecno Importaciones, designed to provide users with an intuitive interface for browsing products, managing accounts, and facilitating purchases.
 
-## Development server
+## 🚀 Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Product Listings**: Browse a wide range of products with detailed information.
+- **User Authentication**: Secure login and registration functionalities.
+- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
+- **Search Functionality**: Quickly find products using the integrated search bar.
+- **Shopping Cart**: Add products to the cart and proceed to checkout.
 
-## Code scaffolding
+## 🛠️ Technologies Used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular CLI v15.2.7
+- TypeScript
+- HTML5 & CSS3
+- Bootstrap 5
 
-## Build
+## 📦 Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jeann1809/tecno-importaciones-angular.git
 
-## Running unit tests
+2. Navigate to the project directory:
+   ```bash
+   cd tecno-importaciones-angular
+   
+3. Install dependencies:
+   ```bash
+   npm install
+   
+4. Run the development server:
+   ```bash
+   ng serve
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+4. Run the development server:
+   ```bash
+   ng serve
 
-## Running end-to-end tests
+## 📄 License
+This project is licensed under the MIT License.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
